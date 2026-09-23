@@ -1,5 +1,8 @@
 # HACK-WIFI
 
+<img width="1600" height="647" alt="0x0" src="https://github.com/user-attachments/assets/28254961-d9bd-47f6-9092-aa71dd84df0c" />
+
+
 ACTE I-Piratage des réseaux Wi-Fi
 Chapitre 1-L'introduction
 
